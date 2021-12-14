@@ -1,0 +1,7 @@
+
+vscode:
+  extensions:
+    - editorconfig.editorconfig
+    - octref.vetur
+    - vscode-icons-team.vscode-icons
+    - bradlc.vscode-tailwindcss
